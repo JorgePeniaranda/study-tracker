@@ -1,9 +1,9 @@
 # Study Tracker
 
 ## Tiempo
-Pomodoro: 25m
-Descanso corto: 5m
-Descanso largo: 15m
+- Pomodoro: 25m
+- Descanso corto: 5m
+- Descanso largo: 15m
 
 ## D1
 ¿Qué tal fue?: Bien / Regular / Difícil
